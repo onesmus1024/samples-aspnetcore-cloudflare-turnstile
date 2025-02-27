@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BENABT.Samples.AspNetCore.CloudflareTurnstile", "BENABT.Samples.AspNetCore.CloudflareTurnstile.csproj", "{C05E0A24-96B6-47A7-9705-7C92CBD3E326}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "samples-aspnetcore-cloudflare-turnstile", "BENABT.Samples.AspNetCore.CloudflareTurnstile.csproj", "{C05E0A24-96B6-47A7-9705-7C92CBD3E326}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
